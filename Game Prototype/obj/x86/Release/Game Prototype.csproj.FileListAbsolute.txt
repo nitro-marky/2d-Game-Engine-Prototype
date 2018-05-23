@@ -1,0 +1,58 @@
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\bin\Windows\Release\Content\background.png
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\bin\Windows\Release\Content\blue_town.png
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\bin\Windows\Release\Content\button.png
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\bin\Windows\Release\Content\easy_menu.png
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\bin\Windows\Release\Content\easy_menu_highlight.png
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\bin\Windows\Release\Content\gameboard.png
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\bin\Windows\Release\Content\hard_menu.png
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\bin\Windows\Release\Content\hard_menu_highlight.png
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\bin\Windows\Release\Content\moderate_menu.png
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\bin\Windows\Release\Content\moderate_menu_highlight.png
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\bin\Windows\Release\Content\red_town.png
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\bin\Windows\Release\Content\road.png
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\bin\Windows\Release\Content\startBackground.jpg
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\bin\Windows\Release\Content\town.png
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\bin\Windows\Release\Content\gameFont.xnb
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\bin\Windows\Release\Content\gameFont60.xnb
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\bin\Windows\Release\Content\gameFont40.xnb
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\bin\Windows\Release\Content\clickSound.xnb
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\bin\Windows\Release\Content\fact_sheet.xnb
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\bin\Windows\Release\Content\gameFont28.xnb
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\bin\Windows\Release\Content\easy_level.xnb
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\bin\Windows\Release\Content\easy_level2.xnb
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\bin\Windows\Release\Content\easy_level_positions.xnb
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\bin\Windows\Release\Content\startMenu.xnb
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\bin\Windows\Release\Content\startMenu_positions.xnb
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\bin\Windows\Release\Content\start_menu.xnb
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\bin\Windows\Release\Content\TextureList.xnb
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\bin\Windows\Release\Content\town_locations.xnb
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\bin\Windows\Release\Content\town_names.xnb
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\bin\Windows\Release\Game Prototype.exe.manifest
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\bin\Windows\Release\Game Prototype.application
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\bin\Windows\Release\Game Prototype.exe
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\bin\Windows\Release\Game Prototype.pdb
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\bin\Windows\Release\MonoGame.Framework.dll
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\bin\Windows\Release\SharpDX.MediaFoundation.dll
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\bin\Windows\Release\SharpDX.dll
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\bin\Windows\Release\SharpDX.XAudio2.dll
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\bin\Windows\Release\SharpDX.Direct3D11.dll
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\bin\Windows\Release\SharpDX.DXGI.dll
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\bin\Windows\Release\SharpDX.Direct2D1.dll
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\bin\Windows\Release\Lidgren.Network.dll
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\bin\Windows\Release\SharpDX.XInput.dll
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\bin\Windows\Release\SharpDX.RawInput.dll
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\bin\Windows\Release\SharpDX.Direct3D9.dll
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\bin\Windows\Release\SharpDX.MediaFoundation.xml
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\bin\Windows\Release\SharpDX.xml
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\bin\Windows\Release\SharpDX.XAudio2.xml
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\bin\Windows\Release\SharpDX.Direct3D11.xml
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\bin\Windows\Release\SharpDX.DXGI.xml
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\bin\Windows\Release\SharpDX.Direct2D1.xml
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\bin\Windows\Release\SharpDX.XInput.xml
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\bin\Windows\Release\SharpDX.RawInput.xml
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\bin\Windows\Release\SharpDX.Direct3D9.xml
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\obj\x86\Release\Game Prototype.exe.manifest
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\obj\x86\Release\Game Prototype.application
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\obj\x86\Release\Game Prototype.exe
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\obj\x86\Release\Game Prototype.pdb
+Z:\Year 2\Games Design\PostProduction\Game Prototype\Game Prototype\obj\x86\Release\Game Prototype.csprojResolveAssemblyReference.cache

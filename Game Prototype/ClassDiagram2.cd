@@ -1,0 +1,515 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Game_Prototype.Audio.AudioComponent" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="10.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAggAAAAAAAACAAAEAQAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Audio\AudioComponent.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Game_Prototype.Audio.AudioManager" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAQAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Audio\AudioManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Game_Prototype.Engine" Collapsed="true">
+    <Position X="17" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAACCAAAAwAAAABAAAAAEgAAAAQAAAACAAIAgAU=</HashCode>
+      <FileName>Engine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Prototype.Game1" Collapsed="true">
+    <Position X="17" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEEAAAAAAAwAAAAAAAAAAAAIAAAgAAAAAAAAAAAw=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Prototype.Program" Collapsed="true">
+    <Position X="17" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Prototype.Entities.Background" Collapsed="true">
+    <Position X="12.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAQAAAAAAAAAAAAAABAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Entities\Background.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Game_Prototype.Entities.Entity" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQQIABAAAAAAQKAAAQQAAACAAAAAABAQAAAgAAECAY=</HashCode>
+      <FileName>Entities\Entity.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Game_Prototype.Entities.GameBoard" Collapsed="true">
+    <Position X="1" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAQAAAAAAAAAAAAAABAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Entities\GameBoard.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Game_Prototype.Entities.GameEntity" Collapsed="true">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\GameEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Prototype.Entities.StartBackground" Collapsed="true">
+    <Position X="3.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAQAAAAAAAAAAAAAABAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Entities\StartBackground.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Game_Prototype.Entities.Town" Collapsed="true">
+    <Position X="5.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUQAIAAAAAAAwAAACAAAAAAEAAghAAEAAACAgAAIAU=</HashCode>
+      <FileName>Entities\Town.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Game_Prototype.Entities.MenuItems.EasyGUI" Collapsed="true">
+    <Position X="7.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUAAIAAAAAAAwAAACAAAAAAEAAghAAQAAACAgAAAAQ=</HashCode>
+      <FileName>Entities\MenuItems\EasyGUI.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Game_Prototype.Entities.MenuItems.HardGUI" Collapsed="true">
+    <Position X="10" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUAAIAAAAAAAQAAACAAAAAAEAAAhAAQAAACAAAAAAA=</HashCode>
+      <FileName>Entities\MenuItems\HardGUI.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Game_Prototype.Entities.MenuItems.MediumGUI" Collapsed="true">
+    <Position X="14.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUAAIAAAAAAAQAAACAAAAAAEAAAhAAQAAACAAAAAAA=</HashCode>
+      <FileName>Entities\MenuItems\MediumGUI.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Game_Prototype.Entity_Control.EntityFactory" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAIEAAkA=</HashCode>
+      <FileName>Entity Control\EntityFactory.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Game_Prototype.Entity_Control.EntityManager" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="10" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAAAIAAAAAAAAIAAABAAEACAAQAAAAABAAAIQAAAA=</HashCode>
+      <FileName>Entity Control\EntityManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Game_Prototype.Game_Implementation.FactDisplay" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAgAAAAAAAAAAQADAAAAAAYRAABAAAAQ=</HashCode>
+      <FileName>Game Implementation\FactDisplay.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Game_Prototype.Game_Implementation.GameManager" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAAAACAAIAAAIAAACAAAABAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Game Implementation\GameManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Game_Prototype.Game_Implementation.StatDisplay" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAACAAAAAAYAAAAAAAAU=</HashCode>
+      <FileName>Game Implementation\StatDisplay.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Game_Prototype.Game_Implementation.StatManager" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="17" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQEIAAhAAIAACAAAAEAAAAAEABIAAAAABAAAAAAAIM=</HashCode>
+      <FileName>Game Implementation\StatManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Game_Prototype.Game_Implementation.TownComponent" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQEBAQAgAAQAgCsAIAACAQSAAAEEQAgDAAAgEAAABA=</HashCode>
+      <FileName>Game Implementation\TownComponent.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Game_Prototype.Game_Implementation.TownDisplayManager" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAgAAAAAAAAAAAACAAAAAAYAAAAAAAAU=</HashCode>
+      <FileName>Game Implementation\TownDisplayManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Game_Prototype.Game_Implementation.TownProperties" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAIAAQAAAAAAAAEAAAEAAQAAIAAQAAgAAEwAIAEgA=</HashCode>
+      <FileName>Game Implementation\TownProperties.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Game_Prototype.Game_Logic.RoadRenderer" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAEAAAAABAAAgABAAAYAAAAAACAU=</HashCode>
+      <FileName>Game Logic\RoadRenderer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Game_Prototype.Game_Logic.TownManager" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="10.25" Y="9.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAE=</HashCode>
+      <FileName>Game Logic\TownManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Game_Prototype.GameAI.AIInfection" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IACAAAQAAAAAAABABAGAAAAAAAAAAAIAAARAAAAEBBE=</HashCode>
+      <FileName>GameAI\AIInfection.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Game_Prototype.GameAI.AIManager" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="10" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAQEAAUBQAEAAAAAAgAAAAQBAAABAAEAAE=</HashCode>
+      <FileName>GameAI\AIManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Game_Prototype.Input.InputComponent" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAGAAAIAAAAAAIEAAAAAQAgAAACAAAAACABAAAAA=</HashCode>
+      <FileName>Input\InputComponent.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Game_Prototype.Input.InputManager" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAhAAAAIQAAAAAgAAAEAAAAAABAAAAQAAAI=</HashCode>
+      <FileName>Input\InputManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Game_Prototype.Input.MouseInput" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="17" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQAAAAAAAACAIAUBAAAAAABAAAAAAAQAAgABAQgABA=</HashCode>
+      <FileName>Input\MouseInput.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Game_Prototype.Rendering.RenderComponent" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAQAAAAAAAAAAAAAQAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Rendering\RenderComponent.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Game_Prototype.Rendering.RenderManager" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="3.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAIQAAAAAAAIAQAAAAAAMAAAABCAAQ=</HashCode>
+      <FileName>Rendering\RenderManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Game_Prototype.Scene.Level" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="15" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQABAAAAAAABAAAAAAQAQAAAAAAACAAAAAAAAQAAAU=</HashCode>
+      <FileName>Scene\Level.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Game_Prototype.Scene.SceneManager" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAAIAAAIAAAAAAAAAAAAAAAAAAACAIAAAAQ=</HashCode>
+      <FileName>Scene\SceneManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Game_Prototype.Scene.StartMenu" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQABAAAAAAIBQAAACAQAQAAAAAAACAAAAAAQAAAAAQ=</HashCode>
+      <FileName>Scene\StartMenu.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Game_Prototype.Utilities.ContentService" Collapsed="true">
+    <Position X="12.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utilities\ContentService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Game_Prototype.Audio.IAudible" Collapsed="true">
+    <Position X="17" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Audio\IAudible.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Game_Prototype.Audio.IAudioComponent" Collapsed="true">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAggAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Audio\IAudioComponent.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Game_Prototype.Audio.IAudioManager" Collapsed="true">
+    <Position X="7.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Audio\IAudioManager.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Game_Prototype.Entities.IEntity" Collapsed="true">
+    <Position X="4.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAIAAAAAAAAQKAAAAAAAACAAAAAABAAAAAAAAACAQ=</HashCode>
+      <FileName>Entities\IEntity.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Game_Prototype.Entity_Control.IEntityFactory" Collapsed="true">
+    <Position X="12.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Entity Control\IEntityFactory.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Game_Prototype.Entity_Control.IEntityManager" Collapsed="true">
+    <Position X="10" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAEACAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Entity Control\IEntityManager.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Game_Prototype.Entity_Control.IEntityNotifier" Collapsed="true">
+    <Position X="17" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAIAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity Control\IEntityNotifier.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Game_Prototype.Entity_Control.IEntityObserver" Collapsed="true">
+    <Position X="2.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity Control\IEntityObserver.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Game_Prototype.Game_Implementation.IFactDisplay" Collapsed="true">
+    <Position X="0.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAQAAAAAAAAQ=</HashCode>
+      <FileName>Game Implementation\IFactDisplay.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Game_Prototype.Game_Implementation.IGameManager" Collapsed="true">
+    <Position X="4.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game Implementation\IGameManager.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Game_Prototype.Game_Implementation.IStatDisplay" Collapsed="true">
+    <Position X="4" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAQAAAAAAAAQ=</HashCode>
+      <FileName>Game Implementation\IStatDisplay.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Game_Prototype.Game_Implementation.ITownDetails" Collapsed="true">
+    <Position X="8.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQEAAAAAAAQAgCoAAAAAAQCAAAAAQAgCAAAAEAAAAA=</HashCode>
+      <FileName>Game Implementation\ITownDetails.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Game_Prototype.Game_Implementation.ITownDisplay" Collapsed="true">
+    <Position X="5.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAQAAAAAAAAQ=</HashCode>
+      <FileName>Game Implementation\ITownDisplay.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Game_Prototype.Game_Implementation.ITownEntity" Collapsed="true">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game Implementation\ITownEntity.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Game_Prototype.Game_Implementation.ITownUtility" Collapsed="true">
+    <Position X="6.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAgA=</HashCode>
+      <FileName>Game Implementation\ITownUtility.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Game_Prototype.Game_Logic.IRoadRenderer" Collapsed="true">
+    <Position X="2.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAQAAAAAAAAQ=</HashCode>
+      <FileName>Game Logic\IRoadRenderer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Game_Prototype.Game_Logic.ITownManager" Collapsed="true">
+    <Position X="10.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Game Logic\ITownManager.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Game_Prototype.GameAI.IAIManager" Collapsed="true">
+    <Position X="10" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAQAAAAAAAEAAA=</HashCode>
+      <FileName>GameAI\IAIManager.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Game_Prototype.GameAI.IInfection" Collapsed="true">
+    <Position X="0.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAABAAAAEBAA=</HashCode>
+      <FileName>GameAI\IInfection.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Game_Prototype.Input.IClickObserver" Collapsed="true">
+    <Position X="1" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAACAACAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Input\IClickObserver.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Game_Prototype.Input.IControllerInput" Collapsed="true">
+    <Position X="2.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAgAAA=</HashCode>
+      <FileName>Input\IControllerInput.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Game_Prototype.Input.IGeneralInputObserver" Collapsed="true">
+    <Position X="17" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Input\IGeneralInputObserver.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Game_Prototype.Input.IHoverObserver" Collapsed="true">
+    <Position X="3.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAACAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Input\IHoverObserver.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Game_Prototype.Input.IInputComponent" Collapsed="true">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAACAAAAAAABAAAAA=</HashCode>
+      <FileName>Input\IInputComponent.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Game_Prototype.Input.IInputManager" Collapsed="true">
+    <Position X="7.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAhAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAI=</HashCode>
+      <FileName>Input\IInputManager.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Game_Prototype.Input.IInputObserver" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Input\IInputObserver.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Game_Prototype.Rendering.IRenderable" Collapsed="true">
+    <Position X="17" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Rendering\IRenderable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Game_Prototype.Rendering.IRenderComponent" Collapsed="true">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Rendering\IRenderComponent.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Game_Prototype.Rendering.IRenderManager" Collapsed="true">
+    <Position X="3.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Rendering\IRenderManager.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Game_Prototype.Scene.IScene" Collapsed="true">
+    <Position X="14.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAABAAAAAAQAAAAAAAAACAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Scene\IScene.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Game_Prototype.Scene.ISceneManager" Collapsed="true">
+    <Position X="14.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Scene\ISceneManager.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Game_Prototype.Input.InputType" Collapsed="true">
+    <Position X="17" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Input\InputManager.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
